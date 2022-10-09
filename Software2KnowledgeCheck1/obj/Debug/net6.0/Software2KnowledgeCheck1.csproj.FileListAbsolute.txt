@@ -1,0 +1,5 @@
+/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Knowledge-Check-1/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.AssemblyReference.cache
+/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Knowledge-Check-1/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Knowledge-Check-1/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfoInputs.cache
+/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Knowledge-Check-1/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfo.cs
+/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Knowledge-Check-1/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.CoreCompileInputs.cache
